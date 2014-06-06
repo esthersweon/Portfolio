@@ -12,6 +12,6 @@
  *= require_tree .
  */
 
-@import url("bootstrap.css.scss");
-@import url("bootstrap.min.css.scss");
-@import url("grayscale.css.scss");
+@import "bootstrap";
+@import "bootstrap.min";
+@import "grayscale";
